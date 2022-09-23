@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Air360 Main Tag",
-  "categories":¨[
+  "categories":[
   "ANALYTICS",
   "CONVERSIONS",
   "SESSION_RECORDING"
