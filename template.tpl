@@ -15,9 +15,9 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Air360 Main Tag",
   "categories":[
-  "ANALYTICS",
-  "CONVERSIONS",
-  "SESSION_RECORDING"
+    "ANALYTICS",
+    "CONVERSIONS",
+    "SESSION_RECORDING"
   ],
   "brand": {
     "id": "Air360",
